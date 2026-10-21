@@ -1,6 +1,6 @@
-# TurboWarp Desktop
+# Aftercode Desktop
 
-TurboWarp as a desktop app.
+Aftercode as a desktop app. (modified by turbowarp.org)
 
 If you're looking for downloads, head to: https://desktop.turbowarp.org/
 
